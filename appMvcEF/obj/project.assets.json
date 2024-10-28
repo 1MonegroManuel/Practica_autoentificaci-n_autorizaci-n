@@ -7714,19 +7714,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kiurt\\.nuget\\packages\\": {}
+    "C:\\Users\\ManuelDavidMonegroVa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\appMvcEF.csproj",
+      "projectUniqueName": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\appMvcEF.csproj",
       "projectName": "appMvcEF",
-      "projectPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\appMvcEF.csproj",
-      "packagesPath": "C:\\Users\\Kiurt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\obj\\",
+      "projectPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\appMvcEF.csproj",
+      "packagesPath": "C:\\Users\\ManuelDavidMonegroVa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kiurt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ManuelDavidMonegroVa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7792,8 +7792,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
