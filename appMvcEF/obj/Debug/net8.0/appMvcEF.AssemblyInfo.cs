@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("appMvcEF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67d303557da26bd9f2848d80cb3d2f49b1e3ab78")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74f7b64b3f114726190cb92bbeec536a757883e0")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("appMvcEF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("appMvcEF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

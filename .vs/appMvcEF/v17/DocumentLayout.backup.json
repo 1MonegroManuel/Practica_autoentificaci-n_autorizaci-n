@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\",
   "Documents": [
     {
@@ -48,12 +49,55 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\universidad\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBstore/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\universidad\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -79,6 +123,33 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\universidad\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\migrations\\20241009115821_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\models\\viewmodels\\productwarranty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\viewmodels\\productwarranty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\models\\warranty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\warranty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\kiurt\\documents\\github\\practica_autoentificaci-n_autorizaci-n\\appmvcef\\migrations\\20241009115821_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\migrations\\20241009115821_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -89,6 +160,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -169,6 +241,17 @@
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Warranty.cs",
               "RelativeDocumentMoniker": "appMvcEF\\Models\\Warranty.cs",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Warranty.cs",
+=======
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Warranty.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Warranty.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\Warranty.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Warranty.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Models\\Warranty.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -176,11 +259,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "appMvcEF\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\ProductsController.cs",
+=======
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\ProductsController.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAKwAAAAAAAAAAAAwwMQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,11 +279,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 10,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "appMvcEF\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\CategoriesController.cs",
+=======
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\CategoriesController.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Controllers\\CategoriesController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -200,11 +299,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "appMvcEF\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\HomeController.cs",
+=======
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\HomeController.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,11 +319,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "appMvcEF\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Shared\\_Layout.cshtml",
+=======
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "appMvcEF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Shared\\_Layout.cshtml",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAB0AAAAAAAAAAAAiwDkAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -224,11 +339,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Program.cs",
               "RelativeDocumentMoniker": "appMvcEF\\Program.cs",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Program.cs",
+=======
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Program.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Program.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Program.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAmwB8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,11 +359,78 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 3,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Rol.cs",
               "RelativeDocumentMoniker": "appMvcEF\\Models\\Rol.cs",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Rol.cs",
+=======
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\User.cs",
+              "RelativeToolTip": "appMvcEF\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:16:11.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\appsettings.json",
+              "RelativeDocumentMoniker": "appMvcEF\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\appsettings.json",
+              "RelativeToolTip": "appMvcEF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T12:31:32.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "appMvcEF\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:18:25.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "appMvcEF\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwEAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:38:54.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBstore/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBstore/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-28T12:32:08.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Rol.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Models\\Rol.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -248,6 +438,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\User.cs",
@@ -266,6 +457,13 @@
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
               "RelativeDocumentMoniker": "appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
+=======
+              "DocumentIndex": 13,
+              "Title": "ProductWarranty.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -273,11 +471,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 14,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "appMvcEF\\Views\\Products\\Create.cshtml",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Products\\Create.cshtml",
+=======
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "appMvcEF\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Products\\Create.cshtml",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Views\\Products\\Create.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAIBJwB8AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -285,11 +491,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "appMvcEF\\Views\\Login\\Index.cshtml",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Login\\Index.cshtml",
+=======
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "appMvcEF\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Views\\Login\\Index.cshtml",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Views\\Login\\Index.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -297,11 +511,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 19,
               "Title": "20241009115821_addCategory.cs",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Migrations\\20241009115821_addCategory.cs",
               "RelativeDocumentMoniker": "appMvcEF\\Migrations\\20241009115821_addCategory.cs",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Migrations\\20241009115821_addCategory.cs",
+=======
+              "DocumentIndex": 17,
+              "Title": "20241009115821_addCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Migrations\\20241009115821_addCategory.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Migrations\\20241009115821_addCategory.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Migrations\\20241009115821_addCategory.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Migrations\\20241009115821_addCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwCcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -309,11 +531,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 18,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Category.cs",
               "RelativeDocumentMoniker": "appMvcEF\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Category.cs",
+=======
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Category.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -321,17 +551,52 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 16,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Product.cs",
               "RelativeDocumentMoniker": "appMvcEF\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Product.cs",
+=======
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Kiurt\\Documents\\GitHub\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\Models\\Product.cs",
+>>>>>>> Stashed changes
               "RelativeToolTip": "appMvcEF\\Models\\Product.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T11:19:02.204Z"
             }
           ]
+<<<<<<< Updated upstream
+=======
+        },
+        {
+          "DockedWidth": 634,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+>>>>>>> Stashed changes
         }
       ]
     }
