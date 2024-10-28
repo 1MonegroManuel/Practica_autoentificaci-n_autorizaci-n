@@ -1,95 +1,143 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = appMvcEF
 build_property.RootNamespace = appMvcEF
-build_property.ProjectDir = C:\Users\ManuelDavidMonegroVa\Downloads\appMvcEF\appMvcEF\appMvcEF\
+build_property.ProjectDir = C:\Users\ManuelDavidMonegroVa\Universidad\Practica_autoentificaci-n_autorizaci-n\appMvcEF\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ManuelDavidMonegroVa\Downloads\appMvcEF\appMvcEF\appMvcEF
+build_property.MSBuildProjectDirectory = C:\Users\ManuelDavidMonegroVa\Universidad\Practica_autoentificaci-n_autorizaci-n\appMvcEF
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Categories/Create.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Categories/Delete.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Categories/Details.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Categories/Edit.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Categories/Index.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Home/Index.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Home/Privacy.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Login/Index.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Products/Create.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Products/Delete.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Products/Details.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Products/Edit.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Products/Index.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Products/Reports.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Products/Reports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUmVwb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Shared/Error.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Rols/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Rols/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Rols/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Rols/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Rols/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/_ViewImports.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/_ViewStart.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ManuelDavidMonegroVa/Downloads/appMvcEF/appMvcEF/appMvcEF/Views/Shared/_Layout.cshtml]
+[C:/Users/ManuelDavidMonegroVa/Universidad/Practica_autoentificaci-n_autorizaci-n/appMvcEF/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-14gebp0bp8

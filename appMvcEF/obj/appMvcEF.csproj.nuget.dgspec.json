@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\appMvcEF.csproj": {}
+    "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\appMvcEF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\appMvcEF.csproj": {
+    "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\appMvcEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\appMvcEF.csproj",
+        "projectUniqueName": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\appMvcEF.csproj",
         "projectName": "appMvcEF",
-        "projectPath": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\appMvcEF.csproj",
+        "projectPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\appMvcEF.csproj",
         "packagesPath": "C:\\Users\\ManuelDavidMonegroVa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\obj\\",
+        "outputPath": "C:\\Users\\ManuelDavidMonegroVa\\Universidad\\Practica_autoentificaci-n_autorizaci-n\\appMvcEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ManuelDavidMonegroVa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
             }
           },
           "imports": [
