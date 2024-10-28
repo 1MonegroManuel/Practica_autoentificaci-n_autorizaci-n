@@ -1,0 +1,24 @@
+﻿@model IEnumerable<appMvcEF.Models.ViewModels.ProductsDateGroup>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Products - Date Expiration</h2>
+<table>
+    <tr>
+        <th>Expiration Date</th>
+        <th>Products</th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductCount)
+            </td>
+        </tr>
+    }
+</table>

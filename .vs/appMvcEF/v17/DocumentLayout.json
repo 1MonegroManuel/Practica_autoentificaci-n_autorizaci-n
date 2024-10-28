@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBstore/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\models\\viewmodels\\productwarranty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\viewmodels\\productwarranty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\models\\warranty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\warranty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|c:\\users\\manueldavidmonegrova\\downloads\\appmvcef\\appmvcef\\appmvcef\\migrations\\20241009115821_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D65C4CE-15BD-465A-A8A0-1AB840E83541}|appMvcEF\\appMvcEF.csproj|solutionrelative:appmvcef\\migrations\\20241009115821_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Users [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBstore/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-28T12:32:08.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\appsettings.json",
+              "RelativeDocumentMoniker": "appMvcEF\\appsettings.json",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\appsettings.json",
+              "RelativeToolTip": "appMvcEF\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T12:31:32.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "appMvcEF\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwEAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:38:54.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "appMvcEF\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:18:25.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Warranty.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\Warranty.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\Warranty.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\Warranty.cs",
+              "RelativeToolTip": "appMvcEF\\Models\\Warranty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:09:27.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "appMvcEF\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAwwMQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:07:14.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "appMvcEF\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:05:33.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "appMvcEF\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:17:24.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "appMvcEF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "appMvcEF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwDkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:05:53.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Program.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Program.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Program.cs",
+              "RelativeToolTip": "appMvcEF\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:04:16.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\Rol.cs",
+              "RelativeToolTip": "appMvcEF\\Models\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:19:05.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\User.cs",
+              "RelativeToolTip": "appMvcEF\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:16:11.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductWarranty.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
+              "RelativeToolTip": "appMvcEF\\Models\\ViewModels\\ProductWarranty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:22:06.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "appMvcEF\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "appMvcEF\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwB8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T11:39:58.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "appMvcEF\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "appMvcEF\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T11:43:13.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241009115821_addCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Migrations\\20241009115821_addCategory.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Migrations\\20241009115821_addCategory.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Migrations\\20241009115821_addCategory.cs",
+              "RelativeToolTip": "appMvcEF\\Migrations\\20241009115821_addCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:58:21.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\Category.cs",
+              "RelativeToolTip": "appMvcEF\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:46:19.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "appMvcEF\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ManuelDavidMonegroVa\\Downloads\\appMvcEF\\appMvcEF\\appMvcEF\\Models\\Product.cs",
+              "RelativeToolTip": "appMvcEF\\Models\\Product.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:19:02.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
