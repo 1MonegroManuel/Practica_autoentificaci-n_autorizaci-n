@@ -1,48 +1,61 @@
 ﻿@model appMvcEF.Models.User
 
 @{
-    Layout = null;
+    Layout = null; // Ensure your layout is set correctly
 }
 
 <!DOCTYPE html>
-
-<html>
+<html lang="en">
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Create</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Create User</title>
 </head>
-<body>
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <!-- Main Content -->
+        <div class="content-wrapper">
+            <div class="container-fluid">
+                <h1 class="mt-4">Create User</h1>
+                <hr />
+                <div class="row">
+                    <div class="col-md-6">
+                        <form id="createUserForm" asp-action="Create">
+                            <div id="validationSummary" class="text-danger"></div>
 
-<h4>User</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Email" class="control-label"></label>
-                <input asp-for="Email" class="form-control" />
-                <span asp-validation-for="Email" class="text-danger"></span>
+                            <div class="form-group">
+                                <label for="firstName" class="control-label">First Name</label>
+                                <input id="firstName" name="FirstName" class="form-control" required />
+                                <span id="firstNameError" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="lastName" class="control-label">Last Name</label>
+                                <input id="lastName" name="LastName" class="form-control" required />
+                                <span id="lastNameError" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="identityCard" class="control-label">Identity Card</label>
+                                <input id="identityCard" name="IdentityCard" class="form-control" required />
+                                <span id="identityCardError" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="RolId" class="control-label"></label>
+                                <select asp-for="RolId" class="form-control" asp-items="ViewBag.RolId" required></select>
+                                <span asp-validation-for="RolId" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <input type="submit" value="Create" class="btn btn-primary" />
+                                <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="Password" class="control-label"></label>
-                <input asp-for="Password" class="form-control" />
-                <span asp-validation-for="Password" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="RolId" class="control-label"></label>
-                <select asp-for="RolId" class ="form-control" asp-items="ViewBag.RolId"></select>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
+        </div>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
+    <script src="~/js/ValidationUser.js"></script>
 </body>
 </html>

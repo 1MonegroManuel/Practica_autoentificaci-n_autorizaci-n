@@ -1,43 +1,56 @@
 ﻿@model IEnumerable<appMvcEF.Models.Rol>
 
 @{
-    Layout = null;
+    Layout = null; // Asegúrate de que tu Layout esté configurado correctamente
 }
 
 <!DOCTYPE html>
-
-<html>
+<html lang="es">
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Index</title>
 </head>
-<body>
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.RolName)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.RolName)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.RolId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.RolId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.RolId">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <!-- Contenido principal -->
+        <div class="content-wrapper">
+            <div class="container-fluid">
+                <h1 class="mt-4">Gestión de Roles</h1>
+                <p>
+                    <a asp-action="Create" class="btn btn-primary mb-3">Crear Nuevo Rol</a>
+                </p>
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">Lista de Roles</h3>
+                    </div>
+                    <div class="card-body">
+                        <table class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>
+                                        @Html.DisplayNameFor(model => model.First().RolName)
+                                    </th>
+                                    <th>Acciones</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            @Html.DisplayFor(modelItem => item.RolName)
+                                        </td>
+                                        <td>
+                                            <a asp-action="Edit" asp-route-id="@item.RolId" class="btn btn-warning btn-sm">Editar</a>
+                                            <a asp-action="Details" asp-route-id="@item.RolId" class="btn btn-info btn-sm">Detalles</a>
+                                            <a asp-action="Delete" asp-route-id="@item.RolId" class="btn btn-danger btn-sm">Eliminar</a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>
