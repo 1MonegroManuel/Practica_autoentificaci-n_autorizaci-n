@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using appMvcEF.Data;
 using appMvcEF.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace appMvcEF.Controllers
 {
@@ -20,6 +21,7 @@ namespace appMvcEF.Controllers
         }
 
         // GET: Users
+        [Authorize(Roles = "admin, supervisor")]
         public async Task<IActionResult> Index()
         {
             var appDbContext = _context.Users.Include(u => u.rol);
@@ -27,6 +29,7 @@ namespace appMvcEF.Controllers
         }
 
         // GET: Users/Details/5
+        [Authorize(Roles = "admin, supervisor")]
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -46,6 +49,7 @@ namespace appMvcEF.Controllers
         }
 
         // GET: Users/Create
+        [Authorize(Roles = "admin, supervisor")]
         public IActionResult Create()
         {
             ViewData["RolId"] = new SelectList(_context.Rols, "RolId", "RolName");
@@ -57,6 +61,7 @@ namespace appMvcEF.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin, supervisor")]
         public async Task<IActionResult> Create([Bind("UserId,Email,Password,RolId")] User user)
         {
             if (ModelState.IsValid)
@@ -70,6 +75,7 @@ namespace appMvcEF.Controllers
         }
 
         // GET: Users/Edit/5
+        [Authorize(Roles = "admin, supervisor")]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -91,6 +97,7 @@ namespace appMvcEF.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin, supervisor")]
         public async Task<IActionResult> Edit(int id, [Bind("UserId,Email,Password,RolId")] User user)
         {
             if (id != user.UserId)
@@ -123,6 +130,7 @@ namespace appMvcEF.Controllers
         }
 
         // GET: Users/Delete/5
+        [Authorize(Roles = "admin, supervisor")]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -144,6 +152,7 @@ namespace appMvcEF.Controllers
         // POST: Users/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
+        [Authorize(Roles = "admin, supervisor")]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var user = await _context.Users.FindAsync(id);

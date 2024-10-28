@@ -12,7 +12,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace appMvcEF.Controllers
 {
-    //[Authorize]
+    [Authorize(Roles = "admin, supervisor, employee")]
     public class ProductsController : Controller
     {
         private readonly AppDbContext _context;
@@ -21,7 +21,7 @@ namespace appMvcEF.Controllers
         {
             _context = context;
         }
-        [Authorize(Roles ="Admin,Supervisor")]
+        
         // GET: Products
         public async Task<IActionResult> Index()
         {
